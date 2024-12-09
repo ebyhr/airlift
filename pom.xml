@@ -92,7 +92,7 @@
         <dep.airlift.version>243</dep.airlift.version>
         <dep.modernizer.version>2.7.0</dep.modernizer.version>
         <dep.packaging.version>${dep.airlift.version}</dep.packaging.version>
-        <dep.jersey.version>3.1.5</dep.jersey.version>
+        <dep.jersey.version>3.1.9</dep.jersey.version>
         <dep.jjwt.version>0.12.5</dep.jjwt.version>
         <dep.jackson.version>2.16.1</dep.jackson.version>
         <dep.jetty.version>12.0.16-SNAPSHOT</dep.jetty.version>
